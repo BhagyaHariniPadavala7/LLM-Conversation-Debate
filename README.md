@@ -159,9 +159,9 @@ pip install requests
 
 ## Author
 
-**Sai Manaswi**
+**Bhagya Harini Padavala**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/BhagyaHariniPadavala7
 
 ---
 
